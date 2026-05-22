@@ -7,7 +7,7 @@
 
 <h3>Bike Store ERD DIAGRAM</h3>
 
-
+![ERD Diagram](BIKE_STORE_ERD_DIAGRAM.png)
 
 <h3>Problem Statement</h3> 
 <h4>BikeStores Inc. is a multi-store bicycle retail chain that has been recording sales, customer, product, and employee data across separate systems since 2016. </h4>
